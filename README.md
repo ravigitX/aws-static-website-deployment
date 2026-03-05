@@ -52,15 +52,6 @@ http://ravi-udacity-project-bucket.s3-website-us-east-1.amazonaws.com
 ### Website Running in Browser
 ![Website](screenshots/website-running.png)
 
-## 📂 Repository Structure
-aws-s3-static-website-cloudfront
-│
-├── website
-├── screenshots
-├── architecture
-└── README.md
-
-
 ## 🧠 Key Learning Outcomes
 
 - Hosting static websites using Amazon S3
