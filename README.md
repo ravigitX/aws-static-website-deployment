@@ -32,6 +32,10 @@ S3 Website Endpoint:
 
 http://ravi-udacity-project-bucket.s3-website-us-east-1.amazonaws.com
 
+## Architecture
+
+User → CloudFront CDN → S3 Bucket → Static Website
+
 ## 📸 Project Screenshots
 
 ### S3 Bucket Creation
