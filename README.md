@@ -44,17 +44,17 @@ https://d2283d5nnyup8h.cloudfront.net/index.html
 ### Website Files Uploaded
 ![Files Uploaded](screenshots/2_files-uploaded.png)
 
-### Static Website Hosting Enabled
-![Hosting](screenshots/3_static-hosting-enabled.png)
-
 ### Bucket Policy Configuration
-![Policy](screenshots/4_bucket-policy.png)
+![Policy](screenshots/3_bucket-policy-updated.png)
+
+### Static Website Hosting Enabled
+![Hosting](screenshots/4_static-hosting-enabled.png)
 
 ### CloudFront Distribution
-![CloudFront](screenshots/5_cloudfront-distribution.png)
+![CloudFront](screenshots/5_cloudfront-distribution-created.png)
 
 ### Website Running in Browser
-![Website](screenshots/6_website-running.png)
+![Website](screenshots/6_website_running.png)
 
 ### Static Configuration
 ![Configuration](screenshots/7_s3_bucket_configuration_setup.png)
