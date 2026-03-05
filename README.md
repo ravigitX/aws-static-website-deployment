@@ -39,22 +39,22 @@ User → CloudFront CDN → S3 Bucket → Static Website
 ## 📸 Project Screenshots
 
 ### S3 Bucket Creation
-![S3 Bucket](screenshots/s3-bucket-created.png)
+![S3 Bucket](screenshots/1_s3-bucket-created.png)
 
 ### Website Files Uploaded
-![Files Uploaded](screenshots/files-uploaded.png)
+![Files Uploaded](screenshots/2_files-uploaded.png)
 
 ### Static Website Hosting Enabled
-![Hosting](screenshots/static-hosting-enabled.png)
+![Hosting](screenshots/4_static-hosting-enabled.png)
 
 ### Bucket Policy Configuration
-![Policy](screenshots/bucket-policy.png)
+![Policy](screenshots/3_bucket-policy-updated.png)
 
 ### CloudFront Distribution
-![CloudFront](screenshots/cloudfront-distribution.png)
+![CloudFront](screenshots/5_cloudfront-distribution-created.png)
 
 ### Website Running in Browser
-![Website](screenshots/website-running.png)
+![Website](screenshots/6_website_running.png)
 
 ## 🧠 Key Learning Outcomes
 
