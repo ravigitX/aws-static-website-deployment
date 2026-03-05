@@ -33,8 +33,10 @@ S3 Website Endpoint:
 http://ravi-udacity-project-bucket.s3-website-us-east-1.amazonaws.com
 
 Bucket Distribution URL(Publicly accessible):
+```
 https://d2283d5nnyup8h.cloudfront.net/
 https://d2283d5nnyup8h.cloudfront.net/index.html
+```
 
 ## 📸 Project Screenshots
 
@@ -80,6 +82,7 @@ https://d2283d5nnyup8h.cloudfront.net/index.html
 - Understanding AWS storage and networking services
 
 ## 👨‍💻 Author
-
+```
 Ravikumar S 
 Computer Science Engineering Student | ASE
+```
