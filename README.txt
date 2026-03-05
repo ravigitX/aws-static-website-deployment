@@ -11,4 +11,4 @@ Description:
 This project demonstrates static website deployment using AWS S3 and CloudFront CDN.
 
 Author:
-Ravikumar
+Ravikumar S

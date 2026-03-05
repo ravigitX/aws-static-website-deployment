@@ -32,6 +32,10 @@ S3 Website Endpoint:
 
 http://ravi-udacity-project-bucket.s3-website-us-east-1.amazonaws.com
 
+Bucket Distribution URL(Publicly accessible):
+https://d2283d5nnyup8h.cloudfront.net/
+https://d2283d5nnyup8h.cloudfront.net/index.html
+
 ## 📸 Project Screenshots
 
 ### S3 Bucket Creation
@@ -41,24 +45,31 @@ http://ravi-udacity-project-bucket.s3-website-us-east-1.amazonaws.com
 ![Files Uploaded](screenshots/2_files-uploaded.png)
 
 ### Static Website Hosting Enabled
-![Hosting](screenshots/static-hosting-enabled.png)
+![Hosting](screenshots/3_static-hosting-enabled.png)
 
 ### Bucket Policy Configuration
-![Policy](screenshots/bucket-policy.png)
+![Policy](screenshots/4_bucket-policy.png)
 
 ### CloudFront Distribution
-![CloudFront](screenshots/cloudfront-distribution.png)
+![CloudFront](screenshots/5_cloudfront-distribution.png)
 
 ### Website Running in Browser
-![Website](screenshots/website-running.png)
+![Website](screenshots/6_website-running.png)
+
+### Static Configuration
+![Configuration](screenshots/7_s3_bucket_configuration_setup.png)
+
+### website on cloudfront distribution
+![Publicly Accessible](screenshots/8_publicly_accessible_website.png)
 
 ## 📂 Repository Structure
-aws-s3-static-website-cloudfront
-│
-├── website
-├── screenshots
-├── architecture
+```
+.
+├── website/        # Static website files
+├── screenshots/    # AWS setup screenshots
+├── architecture/   # Architecture diagram
 └── README.md
+```
 
 
 ## 🧠 Key Learning Outcomes
